@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sam-awsome/Sam-Plans/_apis/build/status%2FDreamRivulet.pipelines-java?branchName=main)](https://dev.azure.com/sam-awsome/Sam-Plans/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
